@@ -97,7 +97,7 @@ B Jyothi Swaroop Reddy - [JyothiSwaroopReddy07](https://github.com/orgs/Git-init
 ------------------------------------------
 ### Acknowledgement
 
-We would like to extend our sincere thanks to our mentor Mrs. Nirmala Shinde Baloorkar for her kind help and valuable advice. Her support and constant supervision were imperative for the successful completion of this project. We would also like to express our special gratitude and thanks to Mrs. Kavita Kelkar, the subject-matter expert for this project, for her valuable inputs and guidance.   
+We would like to extend our sincere thanks to our mentor Mrs.Kamakshi Prasad for her kind help and valuable advice. Her support and constant supervision were imperative for the successful completion of this project. We would also like to express our special gratitude and thanks to Mrs. Kavita Kelkar, the subject-matter expert for this project, for her valuable inputs and guidance.   
 
 ------------------------------------------
 ### License
