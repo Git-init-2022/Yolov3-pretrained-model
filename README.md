@@ -1,6 +1,5 @@
-<p align="center">
- <img height=200px src="./traffic-signal.jpg" alt="Traffic Signal Timer">
-</p>
+![traffic-signal](https://github.com/Git-init-2022/Yolov3-pretrained-model/assets/107217455/1998b15a-faa3-45d4-98e8-8c29f0834299)
+
 
 <h1 align="center">Smart Traffic Signal Control</h1>
 
@@ -40,17 +39,14 @@ Read more about object detection model used, working of the algorithm, and devel
 
 * `Vehicle Detection`
 
-<p align="center">
- <img height=400px src="./vehicle-detection.png" alt="Vehicle Detection">
-</p>
+![vehicle-detection](https://github.com/Git-init-2022/Yolov3-pretrained-model/assets/107217455/78e4d217-1349-473a-8bb4-5a2f78044af5)
+
 
 <br> 
 
 * `Signal Switching Algorithm and Simulation`
 
-<p align="center">
-    <img src="./Demo.gif">
-</p>
+
 
 ------------------------------------------
 ### Prerequisites
