@@ -2,7 +2,7 @@
  <img height=200px src="./traffic-signal.jpg" alt="Traffic Signal Timer">
 </p>
 
-<h1 align="center">Adaptive Traffic Signal Timer</h1>
+<h1 align="center">Smart Traffic Signal Control</h1>
 
 <div align="center">
 
