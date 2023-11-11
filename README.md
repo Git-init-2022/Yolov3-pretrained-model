@@ -46,7 +46,9 @@ Read more about object detection model used, working of the algorithm, and devel
 
 * `Signal Switching Algorithm and Simulation`
 
-
+<p>
+      <img src="https://github.com/Git-init-2022/Yolov3-pretrained-model/blob/efa7e6121ac28b566efb13ea7bbe50f191a5040d/Demo%20(1).gif"/>
+</p>
 
 ------------------------------------------
 ### Prerequisites
