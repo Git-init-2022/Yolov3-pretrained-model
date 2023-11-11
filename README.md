@@ -1,5 +1,6 @@
+<div align="center">
 ![traffic-signal](https://github.com/Git-init-2022/Yolov3-pretrained-model/assets/107217455/1998b15a-faa3-45d4-98e8-8c29f0834299)
-
+</div>
 
 <h1 align="center">Smart Traffic Signal Control</h1>
 
@@ -39,14 +40,15 @@ Read more about object detection model used, working of the algorithm, and devel
 
 * `Vehicle Detection`
 
+<div align="center">
 ![vehicle-detection](https://github.com/Git-init-2022/Yolov3-pretrained-model/assets/107217455/78e4d217-1349-473a-8bb4-5a2f78044af5)
-
+</div>
 
 <br> 
 
 * `Signal Switching Algorithm and Simulation`
 
-<p>
+<p align="center">
       <img src="https://github.com/Git-init-2022/Yolov3-pretrained-model/blob/efa7e6121ac28b566efb13ea7bbe50f191a5040d/Demo%20(1).gif"/>
 </p>
 
