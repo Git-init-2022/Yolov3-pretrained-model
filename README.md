@@ -20,7 +20,18 @@
 
 * According to the [TomTom Traffic Index](https://www.tomtom.com/en_gb/traffic-index/ranking/), 3 of the top 10 countries facing the most traffic congestion are in India viz. Mumbai, Bengaluru, and New Delhi.  People are compelled to spend hours stuck in traffic jams, wasting away their precious time commuting. Current traffic light controllers use a fixed timer and do not adapt according to the real-time traffic on the road.
 
-* In an attempt to reduce traffic congestion, we developed an improved traffic management system in the form of a Computer Vision-based traffic light controller that can autonomously adapt to the traffic situation at the traffic signal. The proposed system sets the green signal time adaptively according to the traffic density at the signal and ensures that the direction with more traffic is allotted a green signal for a longer duration of time as compared to the direction with lesser traffic. 
+* In an attempt to reduce traffic congestion, we developed an improved traffic management system in the form of a Computer Vision-based traffic light controller that can autonomously adapt to the traffic situation at the traffic signal. The proposed system sets the green signal time adaptively according to the traffic density at the signal and ensures that the direction with more traffic is allotted a green signal for a longer duration of time as compared to the direction with lesser traffic.
+
+-----------------------------------------
+### Results
+![Screenshot 2024-02-06 034921](https://github.com/Git-init-2022/Yolov3-pretrained-model/assets/107217455/ff671f61-8003-4595-850c-4f78633d1829)
+
+![Screenshot 2024-02-06 034956](https://github.com/Git-init-2022/Yolov3-pretrained-model/assets/107217455/ea488fe2-d49b-40d7-8767-f454ebc12768)
+
+![Screenshot 2024-02-06 035030](https://github.com/Git-init-2022/Yolov3-pretrained-model/assets/107217455/8ec8f9e6-9c9c-4049-9ae3-0ff9124160e5)
+
+
+
 
 ------------------------------------------
 ### Implementation Details
@@ -84,6 +95,11 @@ Read more about object detection model used, working of the algorithm, and devel
       # To run simulation
       $ python simulation.py
 ```
+
+------------------------------------------
+### Publication
+
+The project is published on journal named IJRPR. [paper link](https://ijrpr.com/uploads/V4ISSUE6/IJRPR14127.pdf)
 
 ------------------------------------------
 ### Contributors
